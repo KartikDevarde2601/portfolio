@@ -1,23 +1,5 @@
-# vscode-portfolio
-[![Open is Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/kartikdevarde2601/portfolio)
 
-A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
-
-![vscode-portfolio banner])
-
-## Features Roadmap
-
-- [ ] Themes and customizations
-  - [x] GitHub Dark (default)
-  - [ ] One Dark Pro
-  - [x] Dracula
-  - [x] Ayu
-  - [x] Nord
-- [ ] Interactive custom terminal
-
-For other features and themes suggestions, please open an issue.
-
-## Environment Variables
+# Environment Variables
 
 For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
 
