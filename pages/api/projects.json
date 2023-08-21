@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Crown Clothing",
+    "image": "https://images.pexels.com/photos/34577/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "A E-Commerce platform buy your favourate cloth",
+    "tags": ["Reactjs", "Firebase", "redux", "Scss", "Strapi"],
+    "source_code": "https://github.com/KartikDevarde2601/crwn-clothing",
+    "demo": "https://crwn-db-74320.web.app/"
+  },
+  {
+    "id": 2,
+    "name": "Threads Clone",
+    "image": "https://images.pexels.com/photos/17614476/pexels-photo-17614476/free-photo-of-young-man-using-new-meta-threads-app-on-smartphone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "full stack threads application clone user can post threads comments and more",
+    "tags": ["Nextjs", "node", "mongodb", "redux", "Express", "material-ui"],
+    "demo": "https://kartikdevarde.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "CaringBell",
+    "image": "https://images.pexels.com/photos/69432/pexels-photo-69432.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "build and deploy caringBell company website   ",
+    "tags": ["Nextjs", "Strapi", "figma", "SEO"],
+    "source_code": "https://github.com/itsnitinr/healthyways",
+    "demo": "https://kartikdevarde.vercel.app/"
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["Nextjs", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "https://kartikdevarde.vercel.app/"
+  },
+  {
+    "id": 5,
+    "name": "chat application",
+    "image": "https://images.pexels.com/photos/4467907/pexels-photo-4467907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "build real-time chat application ",
+    "tags": ["Nextjs", "Socketio","mongodb","css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "https://kartikdevarde.vercel.app/"
+  }
+]

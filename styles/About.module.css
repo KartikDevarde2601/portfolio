@@ -1,0 +1,44 @@
+
+.code {
+    counter-reset: line;
+    font-size: 1.2rem;
+    line-height: 2rem;
+  }
+  
+
+  .line {
+    position: relative;
+    line-height: 1.5; /* Adjust this value as needed */
+    white-space: pre-line; /* Preserve line breaks */
+  }
+  
+  .line::before {
+    content: counter(line);
+    counter-increment: line;
+    position: absolute;
+    left: -2rem; /* Adjust this value as needed */
+    color: grey;
+  }
+
+  .tag{
+    color: #FE2C55;
+  }
+  
+  .code h4{
+    color: #25F4EE;
+  }
+
+  .code h3{
+    color: #25F4EE;
+  }
+
+  .skills{
+    color: #FED8B1;
+  }
+
+  @media screen and (max-width: 600px) {
+    .code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+}
